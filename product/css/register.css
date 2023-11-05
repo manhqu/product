@@ -1,0 +1,43 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    outline: none;
+    border: none;
+}
+
+html {
+    background-image: url(../img/background.png);
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+
+
+}
+
+.register-container {
+
+    display: flex;
+    outline: 1px;
+    border: none;
+    margin: 200px 300px;
+
+    justify-content: end;
+
+
+
+}
+
+.big{
+    font-size: larger;
+    
+}
+
+
+
+.input-wrapper {
+    outline: solid 1px;
+    text-size-adjust: 50 large;
+}
